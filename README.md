@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashjiggy&label=Profile%20views&color=0e75b6&style=flat" alt="hashjiggy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bh_jiggy" target="blank"><img src="https://img.shields.io/twitter/follow/bh_jiggy?logo=twitter&style=for-the-badge" alt="bh_jiggy" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures, React, Javascript**
 
